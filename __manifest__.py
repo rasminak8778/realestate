@@ -1,0 +1,6 @@
+{
+    'name' : 'Estimate',
+    'depends' : [
+        'base'
+    ]
+}
